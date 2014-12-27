@@ -724,7 +724,7 @@
 /* One                                                                           */
 /*********************************************************************************/
 
-	#one {
+	#IAm {
 		background: url('images/overlay.png'), url('../images/one.jpg');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
@@ -735,7 +735,7 @@
 /* Two                                                                           */
 /*********************************************************************************/
 
-	#two {
+	#IDo {
 		background: url('images/overlay.png'), url('../images/two.jpg');
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
